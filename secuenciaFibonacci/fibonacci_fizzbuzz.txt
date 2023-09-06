@@ -1,0 +1,17 @@
+Secuencia fibonacci: 
+0
+1
+1
+2
+Fizz
+Buzz
+8
+Fizz
+Fizz
+Fizz
+Buzz
+89
+Fizz
+Fizz
+Fizz
+Buzz
